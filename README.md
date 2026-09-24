@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3592"><img src="assets/ledger-light.svg?v=3592" width="100%" alt="ROFL ledger, height 3592"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3593"><img src="assets/ledger-light.svg?v=3593" width="100%" alt="ROFL ledger, height 3593"></picture>
 
 | | |
 |---|---|
-| **height** | `3592` |
-| **tip** | `ecf8939b0be613c10510598e108ae448589e8937d3ad897a6d3451bcccadb104` |
+| **height** | `3593` |
+| **tip** | `0e3ac01f9186d43b035ce7e09625296ed995e26a3ffeab97692eb9378a6e75e1` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,520,653,790,299` expected hashes |
-| **supply** | `20999.84854778 ROFL` in `3593` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,520,654,838,874` expected hashes |
+| **supply** | `20999.84892924 ROFL` in `3594` unspent outputs |
 | **next reward** | `0.00038146 ROFL` |
-| **next retarget** | in `7` block(s) |
-| **next halving** | in `187` block(s) |
-| **transactions** | `3595` |
+| **next retarget** | in `6` block(s) |
+| **next halving** | in `186` block(s) |
+| **transactions** | `3596` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3593` | `0e3ac01f9186d43b035c…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00038146` | 2026-09-24 17:50 UTC |
 | `3592` | `ecf8939b0be613c10510…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium Fleet #2 &amp; longtime666999-dev` | `1` | `0.00038146` | 2026-09-24 17:34 UTC |
 | `3591` | `ca5f8fb7e2b36f1037b4…` | [@ywltby](https://github.com/ywltby) | `排位，比世界赛决赛还难打。` | `1` | `0.00038146` | 2026-09-24 17:04 UTC |
 | `3590` | `31e6b27c4a44bbeb4891…` | [@ywltby](https://github.com/ywltby) | `VCTCN，你们的王回来了！` | `1` | `0.00038146` | 2026-09-24 16:49 UTC |
@@ -44,7 +45,6 @@
 | `3586` | `34b84472c01ccc294b04…` | [@ywltby](https://github.com/ywltby) | `原神？启动！` | `1` | `0.00038146` | 2026-09-24 15:52 UTC |
 | `3585` | `f06f7f2740bbf33ea65d…` | [@ywltby](https://github.com/ywltby) | `VCTCN，你们的王回来了！` | `1` | `0.00038146` | 2026-09-24 15:40 UTC |
 | `3584` | `5d820cfc63b71d2e7a07…` | [@ywltby](https://github.com/ywltby) | `遇到我们的时候，你才是挑战者。` | `1` | `0.00038146` | 2026-09-24 15:28 UTC |
-| `3583` | `c96b7b257c01d46e04b6…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00038146` | 2026-09-24 15:25 UTC |
 
 ### Miners
 
@@ -99,7 +99,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.06408665 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
-| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.02288809 ROFL` |
+| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.02326955 ROFL` |
 | [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02250640 ROFL` |
 | _unclaimed_ | `rofl1ql2wuplshkc5586ea8hejg93eft8cun473xc2v5` | `0.00305175 ROFL` |
 
@@ -110,7 +110,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3592. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3593. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
