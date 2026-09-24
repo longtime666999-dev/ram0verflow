@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3571"><img src="assets/ledger-light.svg?v=3571" width="100%" alt="ROFL ledger, height 3571"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3572"><img src="assets/ledger-light.svg?v=3572" width="100%" alt="ROFL ledger, height 3572"></picture>
 
 | | |
 |---|---|
-| **height** | `3571` |
-| **tip** | `5d67724c355edaa3bbaeb1562c73d5f5df38c33414a93f396564771b2a331155` |
+| **height** | `3572` |
+| **tip** | `da26e99129cde8f50d4bd1128ca2c5d56191062cff6176a06f73b5e3bebd6168` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,520,631,770,224` expected hashes |
-| **supply** | `20999.84053712 ROFL` in `3572` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,520,632,818,799` expected hashes |
+| **supply** | `20999.84091858 ROFL` in `3573` unspent outputs |
 | **next reward** | `0.00038146 ROFL` |
-| **next retarget** | in `12` block(s) |
-| **next halving** | in `208` block(s) |
-| **transactions** | `3574` |
+| **next retarget** | in `11` block(s) |
+| **next halving** | in `207` block(s) |
+| **transactions** | `3575` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3572` | `da26e99129cde8f50d4b…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00038146` | 2026-09-24 12:52 UTC |
 | `3571` | `5d67724c355edaa3bbae…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00038146` | 2026-09-24 12:44 UTC |
 | `3570` | `0e6a5524c3270436e3fa…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00038146` | 2026-09-24 12:34 UTC |
 | `3569` | `53e04f8726df3d499b0c…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00076293` | 2026-09-24 12:24 UTC |
@@ -44,7 +45,6 @@
 | `3565` | `f01276081308e0a0018f…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00076293` | 2026-09-24 11:29 UTC |
 | `3564` | `e2233658d358bded72ea…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00076293` | 2026-09-24 11:14 UTC |
 | `3563` | `877ae4cd939dedbd958f…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00076293` | 2026-09-24 10:58 UTC |
-| `3562` | `9870b29c4c5698d5913b…` | [@daxang](https://github.com/daxang) | `挖个矿` | `1` | `0.00076293` | 2026-09-24 10:50 UTC |
 
 ### Miners
 
@@ -100,7 +100,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
 | [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.02136225 ROFL` |
-| [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02059910 ROFL` |
+| [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02098056 ROFL` |
 | _unclaimed_ | `rofl1ql2wuplshkc5586ea8hejg93eft8cun473xc2v5` | `0.00305175 ROFL` |
 
 ### Recent transfers
@@ -110,7 +110,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3571. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3572. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
